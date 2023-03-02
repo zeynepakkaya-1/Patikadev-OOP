@@ -17,3 +17,9 @@
 ### Airline Diagram
 
 ![](https://github.com/zeynepakkaya-1/Patikadev-OOP/blob/main/3.png)
+
+***
+
+### Film App Diagram
+
+![](https://github.com/zeynepakkaya-1/Patikadev-OOP/blob/main/4.png)
