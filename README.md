@@ -23,3 +23,9 @@
 ### Film App Diagram
 
 ![](https://github.com/zeynepakkaya-1/Patikadev-OOP/blob/main/4.png)
+
+***
+
+### Elevator Diagram
+
+![](https://github.com/zeynepakkaya-1/Patikadev-OOP/blob/main/5.png)
